@@ -1,0 +1,22 @@
+{
+  "name": "tornado-securecookie",
+  "version": "1.0.0",
+  "description": "Tornado securecookie implementation for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gguridi/tornado-securecookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gguridi/tornado-securecookie/issues"
+  },
+  "homepage": "https://github.com/gguridi/tornado-securecookie#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
