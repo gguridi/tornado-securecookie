@@ -1,6 +1,3 @@
-const { SecureCookie, DecodeCookie } = require("src/securecookie");
+const sc = require("./src/securecookie");
 
-module.exports = {
-  SecureCookie,
-  DecodeCookie
-};
+module.exports = sc;
