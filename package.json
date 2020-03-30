@@ -1,6 +1,6 @@
 {
   "name": "tornado-securecookie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tornado securecookie implementation for nodejs",
   "main": "index.js",
   "scripts": {
