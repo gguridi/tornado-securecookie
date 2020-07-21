@@ -18,5 +18,9 @@
   "homepage": "https://github.com/gguridi/tornado-securecookie#readme",
   "devDependencies": {
     "jest": "^25.2.4"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
   }
 }
