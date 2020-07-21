@@ -9,7 +9,7 @@ node_js:
   - 13            
   - lts/*
 
-install:
+before_install:
   - npm install -g codecov
 
 script:
