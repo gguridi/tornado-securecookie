@@ -1,6 +1,7 @@
 # tornado-securecookie
 
 [![Build Status](https://travis-ci.org/gguridi/tornado-securecookie.svg?branch=master)](https://travis-ci.org/gguridi/tornado-securecookie)
+![Publish](https://github.com/gguridi/tornado-securecookie/workflows/Publish/badge.svg)
 [![codecov](https://codecov.io/gh/gguridi/tornado-securecookie/branch/master/graph/badge.svg)](https://codecov.io/gh/gguridi/tornado-securecookie)
 
 This package enables the creation of signed cookies to be able to send them
